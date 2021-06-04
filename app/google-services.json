@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120254806994",
+    "firebase_url": "https://artex-f0622-default-rtdb.firebaseio.com",
+    "project_id": "artex-f0622",
+    "storage_bucket": "artex-f0622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120254806994:android:8825eb4f8c52eda33f260b",
+        "android_client_info": {
+          "package_name": "com.example.artex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120254806994-gjb3afm9qf3n9lifp49e0qe66erc0a53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP1gTDzrkJlqLGOimLTmtD37Q2j2sS5zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120254806994-gjb3afm9qf3n9lifp49e0qe66erc0a53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
